@@ -293,7 +293,7 @@ nav {
     background: #f39c12;
     border: none;
     padding: 10px 20px;
-    color: #fff;
+    color: #a06f6f;
     border-radius: 4px;
     cursor: pointer;
 }
@@ -301,7 +301,7 @@ nav {
 /* Footer */
 footer {
     background: #333;
-    color: #fff;
+    color: #bdee4a;
     padding: 20px 0;
     text-align: center;
 }
